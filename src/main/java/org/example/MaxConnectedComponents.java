@@ -1,4 +1,6 @@
+package org.example;
 import java.util.*;
+
 
 public class MaxConnectedComponents {
 	static class DSU {
